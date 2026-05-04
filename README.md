@@ -34,7 +34,7 @@ This project simulates a real corporate environment with multi-area OSPF, VLAN s
 For a deep dive into the technical details, I have included comprehensive documentation:
 
 * **[PDF] Configuration & Verification Guide:** This file contains all CLI commands, screenshots of the configuration, and verification tests (Ping, Traceroute, OSPF Neighbor Adjacency, etc.).
-* **[Enterprise-Network-Simulationpkt.pkt] Lab File:** The original Cisco Packet Tracer file for testing and simulation.
+* **Enterprise-Network-Simulationpkt.pkt Lab File:** The original Cisco Packet Tracer file for testing and simulation.
 
 ---
 
