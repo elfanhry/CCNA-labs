@@ -235,6 +235,5 @@ Full verification screenshots are available in the project PDF.
 Networking Student | Aspiring Network Engineer
 Building toward CCNA
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](your-linkedin-url)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](your-github-url)
+
 
